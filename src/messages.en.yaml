@@ -1,0 +1,12 @@
+locales:
+  en: 'English'
+  fi: 'Finnish'
+select-locale: 'Select language'
+
+app:
+  title: 'App title'
+  body: >
+    'Some content here'
+  hello-world: Hi, {name}
+  time: '{0} took {1} ms to complete.'
+  ordinal: 'The {pos, selectordinal, one{#st} two{#nd} few{#rd} other{#th}} message.'

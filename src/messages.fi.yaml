@@ -1,0 +1,9 @@
+locales:
+  en: 'englanti'
+  fi: 'suomi'
+select-locale: 'Valitse kieli'
+
+app:
+  title: 'Sovellusotsikko'
+  body: >
+    'Jotain sisältöä tähän'
